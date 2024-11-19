@@ -1,0 +1,231 @@
+﻿CustomerID,InteractionType,Date,Notes
+21, Phone Call,1/21/2024, Final details on project
+21, Email,1/22/2024, Summary of discussion
+22, Phone Call,1/23/2024, Product inquiry
+23, Email,1/24/2024, Follow-up on support
+24, Meeting,1/25/2024, Monthly review
+25, Phone Call,1/26/2024, Client check-in
+26, Email,1/27/2024, Requested documentation
+27, Meeting,1/28/2024, Project update
+28, Phone Call,1/29/2024, Discussed new services
+29, Email,1/30/2024, Informed about changes
+30, Meeting,1/31/2024, Strategy alignment
+31, Phone Call,2/1/2024, Follow-up on meeting
+32, Email,2/2/2024, Sent new proposal
+33, Meeting,2/3/2024, Negotiation details
+34, Phone Call,2/4/2024, Follow-up on product
+35, Email,2/5/2024, Addressed previous issues
+36, Meeting,2/6/2024, Discussed deliverables
+37, Phone Call,2/7/2024, General inquiry
+38, Email,2/8/2024, Information request
+39, Meeting,2/9/2024, Review and feedback
+40, Phone Call,2/10/2024, Follow-up on contract
+41, Email,2/11/2024, Sending confirmation
+42, Meeting,2/12/2024, Kick-off meeting
+43, Phone Call,2/13/2024, Discussed project scope
+44, Email,2/14/2024, Follow-up on tasks
+45, Meeting,2/15/2024, Review progress
+46, Phone Call,2/16/2024, Clarification needed
+47, Email,2/17/2024, Update on project
+48, Meeting,2/18/2024, Final review
+49, Phone Call,2/19/2024, Confirmed details
+50, Email,2/20/2024, Follow-up on invoice
+51, Meeting,2/21/2024, Budget discussion
+52, Phone Call,2/22/2024, Addressed concerns
+53, Email,2/23/2024, Follow-up on service
+54, Meeting,2/24/2024, Discussed issues
+55, Phone Call,2/25/2024, Check-in on progress
+56, Email,2/26/2024, Update on request
+57, Meeting,2/27/2024, Planning session
+58, Phone Call,2/28/2024, General inquiry
+59, Email,2/29/2024, Information request
+60, Meeting,3/1/2024, Review feedback
+61, Phone Call,3/2/2024, Confirm details
+62, Email,3/3/2024, Summary of conversation
+63, Meeting,3/4/2024, Discussed new projects
+64, Phone Call,3/5/2024, Follow-up on project
+65, Email,3/6/2024, Update on pricing
+66, Meeting,3/7/2024, Planning for launch
+67, Phone Call,3/8/2024, Follow-up on inquiry
+68, Email,3/9/2024, Requested feedback
+69, Meeting,3/10/2024, Review of strategy
+70, Phone Call,3/11/2024, Discussed progress
+71, Email,3/12/2024, Sending report
+72, Meeting,3/13/2024, Final review
+73, Phone Call,3/14/2024, Follow-up on contract
+74, Email,3/15/2024, Notified about changes
+75, Meeting,3/16/2024, Discussion on deliverables
+76, Phone Call,3/17/2024, Addressed concerns
+77, Email,3/18/2024, Information request
+78, Meeting,3/19/2024, Review meeting
+79, Phone Call,3/20/2024, Check-in on status
+80, Email,3/21/2024, Follow-up on details
+81, Meeting,3/22/2024, Discussed project scope
+82, Phone Call,3/23/2024, Clarification needed
+83, Email,3/24/2024, Update on project status
+84, Meeting,3/25/2024, Final check-in
+85, Phone Call,3/26/2024, Discussed next steps
+86, Email,3/27/2024, Confirmed details
+87, Meeting,3/28/2024, Review feedback
+88, Phone Call,3/29/2024, Follow-up on inquiry
+89, Email,3/30/2024, Sending information
+90, Meeting,3/31/2024, Planning for next quarter
+91, Phone Call,4/1/2024, General inquiry
+92, Email,4/2/2024, Follow-up on proposal
+93, Meeting,4/3/2024, Review of progress
+94, Phone Call,4/4/2024, Confirmed details
+95, Email,4/5/2024, Update on request
+96, Meeting,4/6/2024, Final review
+97, Phone Call,4/7/2024, Addressed concerns
+98, Email,4/8/2024, Sending confirmation
+99, Meeting,4/9/2024, Discussed project timeline
+100, Phone Call,4/10/2024, Follow-up on contract
+101, Email,4/11/2024, Summary of conversation
+102, Meeting,4/12/2024, Discussed deliverables
+103, Phone Call,4/13/2024, Client check-in
+104, Email,4/14/2024, Update on project
+105, Meeting,4/15/2024, Planning session
+106, Phone Call,4/16/2024, General inquiry
+107, Email,4/17/2024, Follow-up on services
+108, Meeting,4/18/2024, Strategy session
+109, Phone Call,4/19/2024, Confirmed details
+110, Email,4/20/2024, Sending report
+111, Meeting,4/21/2024, Review of progress
+112, Phone Call,4/22/2024, Follow-up on inquiry
+113, Email,4/23/2024, Update on request
+114, Meeting,4/24/2024, Final review
+115, Phone Call,4/25/2024, Addressed concerns
+116, Email,4/26/2024, Sending confirmation
+117, Meeting,4/27/2024, Discussed budget
+118, Phone Call,4/28/2024, Client check-in
+119, Email,4/29/2024, Follow-up on proposal
+120, Meeting,4/30/2024, Planning for next project
+121, Phone Call,5/1/2024, General inquiry
+122, Email,5/2/2024, Sent updated contract
+123, Meeting,5/3/2024, Review of deliverables
+124, Phone Call,5/4/2024, Follow-up on details
+125, Email,5/5/2024, Update on pricing
+126, Meeting,5/6/2024, Final review
+127, Phone Call,5/7/2024, Addressed concerns
+128, Email,5/8/2024, Sending report
+129, Meeting,5/9/2024, Discussed project scope
+130, Phone Call,5/10/2024, Confirmed details
+131, Email,5/11/2024, Follow-up on contract
+132, Meeting,5/12/2024, Final check-in
+133, Phone Call,5/13/2024, Client check-in
+134, Email,5/14/2024, Update on project
+135, Meeting,5/15/2024, Discussed future plans
+136, Phone Call,5/16/2024, Follow-up on proposal
+137, Email,5/17/2024, Sending confirmation
+138, Meeting,5/18/2024, Review feedback
+139, Phone Call,5/19/2024, General inquiry
+140, Email,5/20/2024, Follow-up on support
+141, Meeting,5/21/2024, Discussed strategy
+142, Phone Call,5/22/2024, Addressed concerns
+143, Email,5/23/2024, Sending report
+144, Meeting,5/24/2024, Final review
+145, Phone Call,5/25/2024, Confirmed details
+146, Email,5/26/2024, Update on request
+147, Meeting,5/27/2024, Planning for next project
+148, Phone Call,5/28/2024, Discussed project updates
+149, Email,5/29/2024, Follow-up on invoice
+150, Meeting,5/30/2024, Review of progress
+151, Phone Call,5/31/2024, Addressed concerns
+152, Email,6/1/2024, Sending confirmation
+153, Meeting,6/2/2024, Final review
+154, Phone Call,6/3/2024, General inquiry
+155, Email,6/4/2024, Follow-up on contract
+156, Meeting,6/5/2024, Discussed deliverables
+157, Phone Call,6/6/2024, Client check-in
+158, Email,6/7/2024, Update on pricing
+159, Meeting,6/8/2024, Planning session
+160, Phone Call,6/9/2024, Confirmed details
+161, Email,6/10/2024, Follow-up on support
+162, Meeting,6/11/2024, Review feedback
+163, Phone Call,6/12/2024, Addressed concerns
+164, Email,6/13/2024, Sending confirmation
+165, Meeting,6/14/2024, Final review
+166, Phone Call,6/15/2024, General inquiry
+167, Email,6/16/2024, Follow-up on proposal
+168, Meeting,6/17/2024, Discussed strategy
+169, Phone Call,6/18/2024, Confirmed details
+170, Email,6/19/2024, Update on project
+171, Meeting,6/20/2024, Final review
+172, Phone Call,6/21/2024, Addressed concerns
+173, Email,6/22/2024, Follow-up on services
+174, Meeting,6/23/2024, Review of progress
+175, Phone Call,6/24/2024, General inquiry
+176, Email,6/25/2024, Sending confirmation
+177, Meeting,6/26/2024, Discussed deliverables
+178, Phone Call,6/27/2024, Confirmed details
+179, Email,6/28/2024, Follow-up on project
+180, Meeting,6/29/2024, Final review
+181, Phone Call,6/30/2024, Addressed concerns
+182, Email,7/1/2024, Sending confirmation
+183, Meeting,7/2/2024, Review feedback
+184, Phone Call,7/3/2024, Discussed project updates
+185, Email,7/4/2024, Follow-up on invoice
+186, Meeting,7/5/2024, Final review
+187, Phone Call,7/6/2024, Confirmed details
+188, Email,7/7/2024, Sending report
+189, Meeting,7/8/2024, Discussed project scope
+190, Phone Call,7/9/2024, General inquiry
+191, Email,7/10/2024, Follow-up on support
+192, Meeting,7/11/2024, Final review
+193, Phone Call,7/12/2024, Addressed concerns
+194, Email,7/13/2024, Update on project
+195, Meeting,7/14/2024, Review of deliverables
+196, Phone Call,7/15/2024, Confirmed details
+197, Email,7/16/2024, Sending confirmation
+198, Meeting,7/17/2024, Discussed budget
+199, Phone Call,7/18/2024, General inquiry
+200, Email,7/19/2024, Follow-up on proposal
+201, Meeting,7/20/2024, Final review
+202, Phone Call,7/21/2024, Addressed concerns
+203, Email,7/22/2024, Sending confirmation
+204, Meeting,7/23/2024, Review feedback
+205, Phone Call,7/24/2024, Confirmed details
+206, Email,7/25/2024, Update on project
+207, Meeting,7/26/2024, Final review
+208, Phone Call,7/27/2024, General inquiry
+209, Email,7/28/2024, Follow-up on support
+210, Meeting,7/29/2024, Review of progress
+211, Phone Call,7/30/2024, Addressed concerns
+212, Email,7/31/2024, Sending confirmation
+213, Meeting,8/1/2024, Discussed project updates
+214, Phone Call,8/2/2024, Confirmed details
+215, Email,8/3/2024, Follow-up on proposal
+216, Meeting,8/4/2024, Final review
+217, Phone Call,8/5/2024, Addressed concerns
+218, Email,8/6/2024, Sending confirmation
+219, Meeting,8/7/2024, Discussed budget
+220, Phone Call,8/8/2024, Confirmed details
+221, Email,8/9/2024, Follow-up on services
+222, Meeting,8/10/2024, Review feedback
+223, Phone Call,8/11/2024, General inquiry
+224, Email,8/12/2024, Sending confirmation
+225, Meeting,8/13/2024, Discussed project scope
+226, Phone Call,8/14/2024, Confirmed details
+227, Email,8/15/2024, Follow-up on request
+228, Meeting,8/16/2024, Final review
+229, Phone Call,8/17/2024, Addressed concerns
+230, Email,8/18/2024, Sending confirmation
+231, Meeting,8/19/2024, Discussed project updates
+232, Phone Call,8/20/2024, General inquiry
+233, Email,8/21/2024, Follow-up on proposal
+234, Meeting,8/22/2024, Review of deliverables
+235, Phone Call,8/23/2024, Confirmed details
+236, Email,8/24/2024, Sending confirmation
+237, Meeting,8/25/2024, Final review
+238, Phone Call,8/26/2024, Addressed concerns
+239, Email,8/27/2024, Follow-up on project
+240, Meeting,8/28/2024, Review of progress
+241, Phone Call,8/29/2024, Confirmed details
+242, Email,8/30/2024, Sending report
+243, Meeting,8/31/2024, Discussed project timeline
+244, Phone Call,9/1/2024, General inquiry
+245, Email,9/2/2024, Follow-up on invoice
+246, Meeting,9/3/2024, Final review
+247, Phone Call,9/4/2024, Addressed concerns
+248, Email,9/5/2024, Sending confirmation
+249, Meeting,9/6/2024, Review feedback
